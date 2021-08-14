@@ -1,0 +1,7 @@
+
+{"title":"Calculadora","price":150,"thumbnail":"https://cdn0.iconfinder.com/data/icons/business-startup-10/50/29-512.png","id":1}
+{"title":"Papas Fritas","price":150,"thumbnail":"https://cdn0.iconfinder.com/data/icons/fastfood-31/64/french-fries-potato-chip-fast-food-fastfood-512.png","id":2}
+{"title":"Coca Cola","price":"100","thumbnail":"https://cdn2.iconfinder.com/data/icons/beverage-packaging-free-pack-1/512/can-packaging-free-01-512.png","id":3}
+{"title":"Pepsi Cola","price":"150","thumbnail":"https://cdn1.iconfinder.com/data/icons/food-and-drink-vol-1-1/512/5-512.png","id":4}
+{"title":"Libro","price":"150","thumbnail":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/book-512.png","id":5}
+{"title":"Televisor","price":"15000","thumbnail":"https://cdn3.iconfinder.com/data/icons/electronics-and-appliances-7/64/9-512.png","id":6}

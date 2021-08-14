@@ -1,0 +1,30 @@
+
+{{#if products}}
+<br><br>
+<div class="container-sm">
+    <a href="/api/productos/guardar" class="btn btn-primary">Nuevo Producto <i class="fas fa-plus"></i></a>
+</div>
+<br><br>
+<div class="container-sm">
+    <table class="table" style="text-align: center;">
+        <tr>
+            <th>title</th>
+            <th>price</th>
+            <th>thumbnail</th>
+        </tr>
+        {{#each products}}
+        <tr>
+            <td>{{title}}</td>
+            <td>{{price}}</td>
+            <td><img src="{{thumbnail}}"width="50px" height="50px"></td>
+        </tr>
+        {{/each}}
+    </table>
+    {{else}}
+    <div class="container-sm" style="text-align: center">
+        <br><br>
+        <h4>No hay productos por aca</h4>
+    </div>
+
+    {{/if}}
+</div>
